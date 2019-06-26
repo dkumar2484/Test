@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "TOMORROW INDIA vs W.INDIES";
+echo "INDIA vs W.INDIES";
 ?>
 
 </body>
